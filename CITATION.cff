@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the paper below."
+title: "mad-inner-disk-rom: reduced connectivity model and predictive test for magnetically arrested accretion"
+abstract: >-
+  Data and code accompanying a study of a minimal reaction-diffusion closure for a
+  connectivity order parameter in the inner region of a magnetically arrested black-hole
+  accretion flow, driven by the horizon magnetic flux measured in a GRMHD simulation and
+  tested out of sample against its own memoryless limit with a refitted surrogate null.
+type: software
+authors:
+  - family-names: Ko
+    given-names: Changsoo
+    orcid: "https://orcid.org/0009-0001-7717-5891"
+    city: Seoul
+    country: KR
+license: MIT
+repository-code: "https://github.com/USERNAME/mad-inner-disk-rom"
+keywords:
+  - accretion
+  - black hole physics
+  - magnetohydrodynamics
+  - reduced-order model
+  - surrogate data test
+version: "1.0.0"
+date-released: "2026-08-24"

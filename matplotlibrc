@@ -1,0 +1,11 @@
+font.family: sans-serif
+font.sans-serif: Liberation Sans, Helvetica, Arial, DejaVu Sans
+mathtext.fontset: dejavusans
+font.size: 10
+axes.titlesize: 11
+axes.labelsize: 10
+xtick.labelsize: 9
+ytick.labelsize: 9
+legend.fontsize: 9
+pdf.fonttype: 42
+ps.fonttype: 42
